@@ -445,7 +445,7 @@ body, #container-wrap { background:transparent; }
 #slider { width:2360px; height:1640px; }
 .page-scale-wrap { width:2360px; height:1640px; background: #fff !important; }
 .paper-vertical { width:2360px; height:100%; }
-.paper-horizontal { width:4740px; height:1652px; }
+.paper-horizontal { width:7110px; height:1652px; }
 @media all and (max-height:1640px) {
 	.paper-horizontal { margin:0;top:0;}
 	#container > .page { margin:0 auto;}/*pos top for webkit+baker*/
@@ -618,6 +618,115 @@ body, #container-wrap { background:transparent; }
 	height:128px !important;
 	left:2106px !important;
 	top:46px !important;
+}
+
+#item4823 {
+	width:2360px !important;
+	height:224px !important;
+	background:#253885;
+}
+
+#item4998 {
+	width:630px !important;
+	height:488px !important;
+	left:500px !important;
+	top:471px !important;
+	border-radius:0 80px 0 0;
+	background:#253885;
+}
+
+#item5223 {
+	width:630px !important;
+	height:488px !important;
+	left:500px !important;
+	top:1052px !important;
+	border-radius:0 0 80px 0;
+	background:#253885;
+}
+
+#item5093 {
+	width:630px !important;
+	height:488px !important;
+	left:1229px !important;
+	top:471px !important;
+	border-radius:80px 0 0 0;
+	background:#253885;
+}
+
+#item5248 {
+	width:630px !important;
+	height:488px !important;
+	left:1229px !important;
+	top:1052px !important;
+	border-radius:0 0 0 80px;
+	background:#253885;
+}
+
+#item4871 {
+	width:958px !important;
+	left:411px !important;
+	top:121px !important;
+	min-height:33px !important;
+}
+
+#item4905 {
+	width:152px !important;
+	height:128px !important;
+}
+
+#item4899 {
+	width:152px !important;
+	height:128px !important;
+}
+
+#item4896 {
+	width:152px !important;
+	height:128px !important;
+	left:2106px !important;
+	top:46px !important;
+}
+
+#item4914 {
+	width:508px !important;
+	left:100px !important;
+	top:344px !important;
+	min-height:44px !important;
+}
+
+#item4939 {
+	width:79px !important;
+	height:12px !important;
+	left:100px !important;
+	top:413px !important;
+	background:#f28620;
+}
+
+#item4965 {
+	width:436px !important;
+	height:390px !important;
+	left:651px !important;
+	top:520px !important;
+}
+
+#item5273 {
+	width:436px !important;
+	height:390px !important;
+	left:651px !important;
+	top:1101px !important;
+}
+
+#item5118 {
+	width:436px !important;
+	height:390px !important;
+	left:1264px !important;
+	top:520px !important;
+}
+
+#item5298 {
+	width:436px !important;
+	height:390px !important;
+	left:1264px !important;
+	top:1101px !important;
 }
 
 #item4408 {
