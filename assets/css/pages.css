@@ -484,6 +484,20 @@ body, #container-wrap { background:transparent; }
 	63% {-webkit-transform:translate(0px,0px) scaleX(1.8) scaleY(1.8);}
 	83% {-webkit-transform:translate(0px,0px) scaleX(1) scaleY(1);}
 }
+#item4677 {
+	width:800px !important;
+	height:224px !important;
+	left:143px !important;
+	top:31px !important;
+	border-radius:0 80px 80px 0;
+	background:#f3f3f3;
+}
+
+#item4702 {
+	width:287px !important;
+	height:287px !important;
+}
+
 #item4502 {
 	width:800px !important;
 	height:224px !important;
@@ -519,6 +533,20 @@ body, #container-wrap { background:transparent; }
 	63% {-webkit-transform:translate(0px,0px) scaleX(1.8) scaleY(1.8);}
 	83% {-webkit-transform:translate(0px,0px) scaleX(1) scaleY(1);}
 }
+#item4646 {
+	width:800px !important;
+	height:224px !important;
+	left:143px !important;
+	top:31px !important;
+	border-radius:0 80px 80px 0;
+	background:#f3f3f3;
+}
+
+#item4671 {
+	width:287px !important;
+	height:287px !important;
+}
+
 #item4536 {
 	width:800px !important;
 	height:224px !important;
@@ -554,6 +582,20 @@ body, #container-wrap { background:transparent; }
 	63% {-webkit-transform:translate(0px,0px) scaleX(1.8) scaleY(1.8);}
 	83% {-webkit-transform:translate(0px,0px) scaleX(1) scaleY(1);}
 }
+#item4706 {
+	width:800px !important;
+	height:224px !important;
+	left:143px !important;
+	top:24px !important;
+	border-radius:0 80px 80px 0;
+	background:#f3f3f3;
+}
+
+#item4731 {
+	width:287px !important;
+	height:271px !important;
+}
+
 #item4010 {
 	width:800px !important;
 	height:224px !important;
@@ -589,13 +631,6 @@ body, #container-wrap { background:transparent; }
 	min-height:33px !important;
 }
 
-#item4130 {
-	width:1055px !important;
-	height:1290px !important;
-	left:100px !important;
-	top:250px !important;
-}
-
 #item4195 {
 	width:152px !important;
 	height:128px !important;
@@ -611,6 +646,12 @@ body, #container-wrap { background:transparent; }
 	height:128px !important;
 	left:2106px !important;
 	top:46px !important;
+}
+
+#item4589 {
+	width:1155px !important;
+	height:1290px !important;
+	top:250px !important;
 }
 
 #item4408 {
