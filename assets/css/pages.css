@@ -445,7 +445,7 @@ body, #container-wrap { background:transparent; }
 #slider { width:2360px; height:1640px; }
 .page-scale-wrap { width:2360px; height:1640px; background: #fff !important; }
 .paper-vertical { width:2360px; height:100%; }
-.paper-horizontal { width:9480px; height:1652px; }
+.paper-horizontal { width:30810px; height:1652px; }
 @media all and (max-height:1640px) {
 	.paper-horizontal { margin:0;top:0;}
 	#container > .page { margin:0 auto;}/*pos top for webkit+baker*/
@@ -741,40 +741,32 @@ body, #container-wrap { background:transparent; }
 	top:1264px !important;
 }
 
-#item4998 {
-	width:776px !important;
-	height:488px !important;
-	left:354px !important;
-	top:466px !important;
-	border-radius:0 80px 0 0;
-	background:#f3f3f3;
+#item10129 {
+	width:313px !important;
+	height:173px !important;
+	left:359px !important;
+	top:85px !important;
 }
 
-#item5223 {
-	width:776px !important;
-	height:488px !important;
-	left:354px !important;
-	top:1052px !important;
-	border-radius:0 0 80px 0;
-	background:#f3f3f3;
+#item13075 {
+	width:741px !important;
+	height:367px !important;
+	left:810px !important;
+	top:1142px !important;
 }
 
-#item5093 {
-	width:776px !important;
-	height:488px !important;
-	left:1229px !important;
-	top:466px !important;
-	border-radius:80px 0 0 0;
-	background:#f3f3f3;
+#item9449 {
+	width:325px !important;
+	height:173px !important;
+	left:359px !important;
+	top:84px !important;
 }
 
-#item5248 {
-	width:776px !important;
-	height:488px !important;
-	left:1229px !important;
-	top:1052px !important;
-	border-radius:0 0 0 80px;
-	background:#f3f3f3;
+#item13074 {
+	width:741px !important;
+	height:367px !important;
+	left:810px !important;
+	top:796px !important;
 }
 
 #item4914 {
@@ -792,32 +784,102 @@ body, #container-wrap { background:transparent; }
 	background:#f28620;
 }
 
-#item4965 {
-	width:436px !important;
-	height:390px !important;
-	left:651px !important;
-	top:515px !important;
-}
-
 #item5273 {
-	width:436px !important;
-	height:390px !important;
-	left:651px !important;
-	top:1101px !important;
+	width:268px !important;
+	height:166px !important;
+	left:359px !important;
+	top:87px !important;
 }
 
-#item5118 {
-	width:436px !important;
-	height:390px !important;
-	left:1264px !important;
-	top:515px !important;
+#item13079 {
+	width:741px !important;
+	height:367px !important;
+	left:69px !important;
+	top:445px !important;
 }
 
-#item5298 {
-	width:436px !important;
-	height:390px !important;
-	left:1264px !important;
-	top:1101px !important;
+#item9399 {
+	width:294px !important;
+	height:166px !important;
+	left:359px !important;
+	top:88px !important;
+}
+
+#item13078 {
+	width:741px !important;
+	height:367px !important;
+	left:69px !important;
+	top:796px !important;
+}
+
+#item9567 {
+	width:313px !important;
+	height:173px !important;
+	left:359px !important;
+	top:85px !important;
+}
+
+#item13077 {
+	width:741px !important;
+	height:367px !important;
+	left:69px !important;
+	top:1142px !important;
+}
+
+#item10104 {
+	width:268px !important;
+	height:125px !important;
+	left:359px !important;
+	top:109px !important;
+}
+
+#item13076 {
+	width:741px !important;
+	height:367px !important;
+	left:1551px !important;
+	top:1142px !important;
+}
+
+#item9231 {
+	width:234px !important;
+	height:173px !important;
+	left:359px !important;
+	top:83px !important;
+}
+
+#item13080 {
+	width:741px !important;
+	height:367px !important;
+	left:810px !important;
+	top:445px !important;
+}
+
+#item9424 {
+	width:278px !important;
+	height:173px !important;
+	left:359px !important;
+	top:84px !important;
+}
+
+#item13081 {
+	width:741px !important;
+	height:367px !important;
+	left:1551px !important;
+	top:796px !important;
+}
+
+#item9292 {
+	width:232px !important;
+	height:125px !important;
+	left:359px !important;
+	top:107px !important;
+}
+
+#item13073 {
+	width:741px !important;
+	height:367px !important;
+	left:1551px !important;
+	top:445px !important;
 }
 
 #item6774 {
@@ -857,10 +919,520 @@ body, #container-wrap { background:transparent; }
 	min-height:31px !important;
 }
 
+#item12633 {
+	width:287px !important;
+	height:108px !important;
+	left:100px !important;
+	top:60px !important;
+}
+
+#item12643 {
+	width:154px !important;
+	height:130px !important;
+}
+
+#item12639 {
+	width:154px !important;
+	height:130px !important;
+}
+
+#item12636 {
+	width:154px !important;
+	height:130px !important;
+	left:2105px !important;
+	top:60px !important;
+}
+
+#item12646 {
+	width:914px !important;
+	left:428px !important;
+	top:138px !important;
+	min-height:31px !important;
+}
+
+#item12671 {
+	width:2011px !important;
+	left:100px !important;
+	top:373px !important;
+	min-height:44px !important;
+}
+
+#item12697 {
+	width:79px !important;
+	height:12px !important;
+	left:100px !important;
+	top:442px !important;
+	background:#f28620;
+}
+
+#item12698 {
+	width:480px !important;
+	left:100px !important;
+	top:852px !important;
+	min-height:519px !important;
+}
+
+#item12723 {
+	width:480px !important;
+	left:1230px !important;
+	top:524px !important;
+	min-height:836px !important;
+}
+
+#item12748 {
+	width:480px !important;
+	left:1780px !important;
+	top:524px !important;
+	min-height:846px !important;
+}
+
+#item12773 {
+	width:2360px !important;
+	height:250px !important;
+	background:#253885;
+}
+
+#item12774 {
+	width:287px !important;
+	height:108px !important;
+	left:100px !important;
+	top:60px !important;
+}
+
+#item12785 {
+	width:154px !important;
+	height:130px !important;
+}
+
+#item12781 {
+	width:154px !important;
+	height:130px !important;
+}
+
+#item12778 {
+	width:154px !important;
+	height:130px !important;
+	left:2105px !important;
+	top:60px !important;
+}
+
+#item12789 {
+	width:914px !important;
+	left:428px !important;
+	top:138px !important;
+	min-height:31px !important;
+}
+
+#item12434 {
+	width:2360px !important;
+	height:473px !important;
+	background:#253885;
+}
+
+#item12435 {
+	width:287px !important;
+	height:108px !important;
+	left:100px !important;
+	top:60px !important;
+}
+
+#item12449 {
+	width:154px !important;
+	height:130px !important;
+}
+
+#item12445 {
+	width:154px !important;
+	height:130px !important;
+}
+
+#item12442 {
+	width:154px !important;
+	height:130px !important;
+	left:2105px !important;
+	top:60px !important;
+}
+
+#item12452 {
+	width:914px !important;
+	left:428px !important;
+	top:138px !important;
+	min-height:31px !important;
+}
+
+#item12477 {
+	width:1512px !important;
+	left:100px !important;
+	top:250px !important;
+	min-height:116px !important;
+}
+
+#item12503 {
+	width:79px !important;
+	height:12px !important;
+	left:100px !important;
+	top:391px !important;
+	background:#f28620;
+}
+
+#item12504 {
+	width:1074px !important;
+	left:100px !important;
+	top:610px !important;
+	min-height:874px !important;
+}
+
+#item10998 {
+	width:2360px !important;
+	height:250px !important;
+	background:#253885;
+}
+
+#item10999 {
+	width:287px !important;
+	height:108px !important;
+	left:100px !important;
+	top:60px !important;
+}
+
+#item11011 {
+	width:154px !important;
+	height:130px !important;
+}
+
+#item11006 {
+	width:154px !important;
+	height:130px !important;
+}
+
+#item11002 {
+	width:154px !important;
+	height:130px !important;
+	left:2105px !important;
+	top:60px !important;
+}
+
+#item11014 {
+	width:914px !important;
+	left:428px !important;
+	top:138px !important;
+	min-height:31px !important;
+}
+
+#item12855 {
+	width:1537px !important;
+	left:100px !important;
+	top:339px !important;
+	min-height:116px !important;
+}
+
+#item12880 {
+	width:79px !important;
+	height:12px !important;
+	left:100px !important;
+	top:483px !important;
+	background:#f28620;
+}
+
+#item12984 {
+	width:480px !important;
+	left:100px !important;
+	top:965px !important;
+	min-height:519px !important;
+}
+
+#item12907 {
+	width:480px !important;
+	left:1220px !important;
+	top:565px !important;
+	min-height:605px !important;
+}
+
+#item12932 {
+	width:480px !important;
+	left:1780px !important;
+	top:565px !important;
+	min-height:605px !important;
+}
+
+#item11045 {
+	width:2360px !important;
+	height:250px !important;
+	background:#253885;
+}
+
+#item11046 {
+	width:287px !important;
+	height:108px !important;
+	left:100px !important;
+	top:60px !important;
+}
+
+#item11060 {
+	width:154px !important;
+	height:130px !important;
+}
+
+#item11054 {
+	width:154px !important;
+	height:130px !important;
+}
+
+#item11051 {
+	width:154px !important;
+	height:130px !important;
+	left:2105px !important;
+	top:60px !important;
+}
+
+#item11067 {
+	width:914px !important;
+	left:428px !important;
+	top:138px !important;
+	min-height:31px !important;
+}
+
+#item11144 {
+	width:2360px !important;
+	height:250px !important;
+	background:#253885;
+}
+
+#item11145 {
+	width:287px !important;
+	height:108px !important;
+	left:100px !important;
+	top:60px !important;
+}
+
+#item11155 {
+	width:154px !important;
+	height:130px !important;
+}
+
+#item11151 {
+	width:154px !important;
+	height:130px !important;
+}
+
+#item11148 {
+	width:154px !important;
+	height:130px !important;
+	left:2105px !important;
+	top:60px !important;
+}
+
+#item11159 {
+	width:914px !important;
+	left:428px !important;
+	top:138px !important;
+	min-height:31px !important;
+}
+
+#item12224 {
+	width:2360px !important;
+	height:250px !important;
+	background:#253885;
+}
+
+#item12225 {
+	width:287px !important;
+	height:108px !important;
+	left:100px !important;
+	top:60px !important;
+}
+
+#item12235 {
+	width:154px !important;
+	height:130px !important;
+}
+
+#item12231 {
+	width:154px !important;
+	height:130px !important;
+}
+
+#item12228 {
+	width:154px !important;
+	height:130px !important;
+	left:2105px !important;
+	top:60px !important;
+}
+
+#item12238 {
+	width:914px !important;
+	left:428px !important;
+	top:138px !important;
+	min-height:31px !important;
+}
+
+#item13290 {
+	width:480px !important;
+	height:184px !important;
+	left:1780px !important;
+	top:490px !important;
+	background:#4c4d4f;
+}
+
+#item12339 {
+	width:1600px !important;
+	height:392px !important;
+	left:100px !important;
+	top:1098px !important;
+	background:#4c4d4f;
+}
+
+#item12343 {
+	width:1708px !important;
+	left:100px !important;
+	top:339px !important;
+	min-height:44px !important;
+}
+
+#item12369 {
+	width:79px !important;
+	height:12px !important;
+	left:100px !important;
+	top:408px !important;
+	background:#f28620;
+}
+
+#item13184 {
+	width:480px !important;
+	left:100px !important;
+	top:490px !important;
+	min-height:548px !important;
+}
+
+#item13209 {
+	width:480px !important;
+	left:1220px !important;
+	top:490px !important;
+	min-height:490px !important;
+}
+
+#item13235 {
+	width:480px !important;
+	left:1780px !important;
+	top:745px !important;
+	min-height:745px !important;
+}
+
+#item11190 {
+	width:2360px !important;
+	height:250px !important;
+	background:#253885;
+}
+
+#item11191 {
+	width:287px !important;
+	height:108px !important;
+	left:100px !important;
+	top:60px !important;
+}
+
+#item11201 {
+	width:154px !important;
+	height:130px !important;
+}
+
+#item11197 {
+	width:154px !important;
+	height:130px !important;
+}
+
+#item11194 {
+	width:154px !important;
+	height:130px !important;
+	left:2105px !important;
+	top:60px !important;
+}
+
+#item11204 {
+	width:914px !important;
+	left:428px !important;
+	top:138px !important;
+	min-height:31px !important;
+}
+
+#item11235 {
+	width:2360px !important;
+	height:250px !important;
+	background:#253885;
+}
+
+#item11236 {
+	width:287px !important;
+	height:108px !important;
+	left:100px !important;
+	top:60px !important;
+}
+
+#item11254 {
+	width:154px !important;
+	height:130px !important;
+}
+
+#item11246 {
+	width:154px !important;
+	height:130px !important;
+}
+
+#item11243 {
+	width:154px !important;
+	height:130px !important;
+	left:2105px !important;
+	top:60px !important;
+}
+
+#item11257 {
+	width:914px !important;
+	left:428px !important;
+	top:138px !important;
+	min-height:31px !important;
+}
+
+#item11288 {
+	width:2360px !important;
+	height:250px !important;
+	background:#253885;
+}
+
+#item11289 {
+	width:287px !important;
+	height:108px !important;
+	left:100px !important;
+	top:60px !important;
+}
+
+#item11300 {
+	width:154px !important;
+	height:130px !important;
+}
+
+#item11296 {
+	width:154px !important;
+	height:130px !important;
+}
+
+#item11292 {
+	width:154px !important;
+	height:130px !important;
+	left:2105px !important;
+	top:60px !important;
+}
+
+#item11303 {
+	width:914px !important;
+	left:428px !important;
+	top:138px !important;
+	min-height:31px !important;
+}
+
 #item4416 {
 	width:2360px !important;
-	height:259px !important;
-	top:1381px !important;
+	height:250px !important;
+	top:1390px !important;
 	background:#253885;
 }
 
@@ -1254,7 +1826,7 @@ body, #container-wrap { background:transparent; }
 #item4438 {
 	width:2158px !important;
 	left:100px !important;
-	top:1453px !important;
+	top:1448px !important;
 	min-height:35px !important;
 }
 
