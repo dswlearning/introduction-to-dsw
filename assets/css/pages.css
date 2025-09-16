@@ -462,10 +462,10 @@ body, #container-wrap { background:transparent; }
 }
 
 #item4090 {
-	width:552px !important;
-	height:555px !important;
-	left:578px !important;
+	width:1129px !important;
+	height:630px !important;
 	top:190px !important;
+	border-radius:0 40px 0 0;
 	background:#ffffff;
 }
 
