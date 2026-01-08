@@ -1482,13 +1482,6 @@ body, #container-wrap { background:transparent; }
 	min-height:214px !important;
 }
 
-#item41247 {
-	width:850px !important;
-	left:255px !important;
-	top:274px !important;
-	min-height:130px !important;
-}
-
 #item41272 {
 	width:143px !important;
 	height:143px !important;
@@ -1508,6 +1501,13 @@ body, #container-wrap { background:transparent; }
 	height:152px !important;
 	left:80px !important;
 	top:766px !important;
+}
+
+#item41247 {
+	width:850px !important;
+	left:255px !important;
+	top:274px !important;
+	min-height:130px !important;
 }
 
 #item41322 {
@@ -1716,6 +1716,22 @@ body, #container-wrap { background:transparent; }
 	left:50px !important;
 	top:241px !important;
 	background:#f28620;
+}
+
+#item43489 {
+	width:1px !important;
+	height:14px !important;
+	left:48px !important;
+	top:43px !important;
+	background:#7a838e;
+}
+
+#item43500 {
+	width:1px !important;
+	height:7px !important;
+	left:35px !important;
+	top:64px !important;
+	background:#7a838e;
 }
 
 #item41694 {
@@ -2659,7 +2675,7 @@ body, #container-wrap { background:transparent; }
 
 #item43069 {
 	width:1080px !important;
-	height:256px !important;
+	height:248px !important;
 	left:50px !important;
 	top:552px !important;
 	border-radius:27px;
@@ -2670,7 +2686,7 @@ body, #container-wrap { background:transparent; }
 	width:1080px !important;
 	height:216px !important;
 	left:50px !important;
-	top:834px !important;
+	top:826px !important;
 	border-radius:27px;
 	background:#f3f3f3;
 }
@@ -2827,13 +2843,13 @@ body, #container-wrap { background:transparent; }
 	width:850px !important;
 	left:255px !important;
 	top:582px !important;
-	min-height:197px !important;
+	min-height:188px !important;
 }
 
 #item43307 {
 	width:855px !important;
 	left:255px !important;
-	top:857px !important;
+	top:849px !important;
 	min-height:171px !important;
 }
 
@@ -2855,14 +2871,14 @@ body, #container-wrap { background:transparent; }
 	width:143px !important;
 	height:163px !important;
 	left:80px !important;
-	top:598px !important;
+	top:594px !important;
 }
 
 #item43365 {
 	width:143px !important;
 	height:152px !important;
 	left:80px !important;
-	top:866px !important;
+	top:858px !important;
 }
 
 #item8506 {
